@@ -13,8 +13,8 @@ No web.xml  , only java
 2. pom.xml add gwt config  , set webappDirectory  (no war dir)
 
 3. in Main.gwt.xml add
-    module rename-to="gwtjs" //dist name
-    set-property name="user.agent" value="safari" //only google chrome 
+    module rename-to="gwtjs" dist name
+    set-property name="user.agent" value="safari" only google chrome 
 
 4. put index.html to static 
 
